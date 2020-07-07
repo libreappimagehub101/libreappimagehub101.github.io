@@ -59,7 +59,7 @@
     "moment": "^2.18.1",
     "mustache": "^2.3.0",
     "normalizr": "^3.2.3",
-    "npm": "^4.6.1",
+    "npm": "^6.14.6",
     "os-locale": "^2.1.0",
     "parse-domain": "^1.1.0",
     "plist": "^2.1.0",
