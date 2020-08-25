@@ -29,7 +29,7 @@
     "electron-log": "2.2.11",
     "electron-updater": "2.21.0",
     "font-roboto-local": "1.0.1",
-    "highcharts": "6.0.3",
+    "highcharts": "8.2.0",
     "json-2-csv": "2.2.0",
     "left-pad": "1.2.0",
     "material-ui": "0.19.4",
